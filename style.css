@@ -43,3 +43,20 @@ body {
     border-radius: 10px;
     text-align: left;
 }
+
+.smartphones {
+    margin: 30px auto;
+    border-collapse: collapse;
+    width: 70%;
+}
+
+.smartphones th {
+    background-color: #ccc;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.smartphones td {
+    padding: 10px;
+    border: 1px solid black;
+}
