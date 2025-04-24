@@ -63,6 +63,7 @@ body {
 }
 
 .smartphones ol {
+    list-style-position: inside;
     width: fit-content;
     margin: auto;
     text-align: left;
