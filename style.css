@@ -62,7 +62,7 @@ body {
     border: 1px solid black;
 }
 
-.smartphones ol {
+ol {
     list-style-position: inside;
     padding: 0;
     margin: 30px auto;
